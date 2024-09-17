@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elikimz&label=Profile%20views&color=0e75b6&style=flat" alt="elikimz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elikimz" alt="elikimz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/https://x.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/home?logo=twitter&style=for-the-badge" alt="https://x.com/home" /></a> </p>
 
 - 🌱 I’m currently learning **java**
+
+- 👯 I’m looking to collaborate on **software development**
 
 - 💬 Ask me about **react,java,pgadmin,hono**
 
